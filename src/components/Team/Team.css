@@ -1,0 +1,14 @@
+.team-style{
+    display: flex;
+    font-family: Roboto;
+    text-align: center;
+}
+.team-description{
+    width: 80%;
+}
+.team-cart{
+    width: 20%;
+    text-align: center;
+    border-left: 1px solid blue;
+    margin-left: 20px;
+}

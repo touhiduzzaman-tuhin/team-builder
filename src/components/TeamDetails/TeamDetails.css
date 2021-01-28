@@ -1,0 +1,46 @@
+.user-details-style{
+    display: flex;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    background-color: salmon;
+    margin : 20px;
+    margin-left: 100px;
+}
+.left-side-style{
+    border-right: 1px solid steelblue;
+    width: 30%;
+    padding : 10px;
+}
+.middle-side-style{
+    width: 40%;
+    border-right: 1px solid steelblue;
+    padding : 10px;
+}
+.right-side-style{
+    margin: 5px auto;
+    /* width : 200px; */
+}
+.right-side-style img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    /* margin-left: 10px; */
+}
+.button-style{
+    background-color: steelblue;
+    color: white;
+    font-size: 20px;
+    padding : 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.button-style:hover{
+    background-color:gray;
+}
+.button-style:focus{
+    outline: none;
+}

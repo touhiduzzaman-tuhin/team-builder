@@ -1,0 +1,23 @@
+.cart-image{
+    display: flex;
+    border : 1px solid gray;
+    background-color: lightgrey;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+.cart-image p{
+    padding-left: 25px;
+    color: steelblue;
+    line-height: 5px;
+}
+.cart-image img{
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+}
+.cart-image Button{
+    height: 50px;
+    margin-left: 5px;
+    margin-top : 15px;
+}
